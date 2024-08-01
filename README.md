@@ -1,4 +1,4 @@
-# Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
+# Portafolio ¡Hola, bienvenido a mi proyecto de portafolio con HMTL y CSS!
 
 ![portafolio html y css](https://github.com/user-attachments/assets/e42ad098-1ea7-41d5-8c80-66386577d423)
 
