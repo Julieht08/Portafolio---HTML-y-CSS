@@ -146,6 +146,7 @@ body {
 
     .menu-encabezado {
         justify-content: center;
+        gap: 3rem;
     }
 
     .presentacion {
